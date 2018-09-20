@@ -1,0 +1,11 @@
+.Tgrid{
+    display: grid;
+    grid-template-columns: 100px 100px 50px;
+    grid-gap: 20px;
+    .grid-item{
+            background-color: aqua;
+            padding: 5px;
+            text-align: center;
+
+    }
+}

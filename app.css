@@ -1,0 +1,12 @@
+.Tgrid {
+  display: grid;
+  grid-template-columns: 100px 100px 100px  100px 100px 100px;
+  grid-gap: 20px;
+}
+.Tgrid .grid-item {
+  background-color: aqua;
+  padding: 5px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=app.css.map */
